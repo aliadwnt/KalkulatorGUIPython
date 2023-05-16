@@ -1,1 +1,3 @@
 # KalkulatorGUIPython
+
+# Name Amelia Rahman
